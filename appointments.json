@@ -3,83 +3,204 @@
     "nhs": "6538586104",
     "name": "Laryssa Vasilik",
     "doctor": "Dr. Violante Rilton",
+    "doctorEmail": "vrilton0@discuz.net",
+    "doctorId": 1,
+    "patientEmail": "laryssa.vasilik@mail.com",
     "items": [
-      {"date": "2025-10-15", "time": "09:00", "type": "General Check-up", "desc": "Routine health screening and vitals"},
-      {"date": "2025-11-10", "time": "10:30", "type": "Follow-up", "desc": "Review of blood test results"}
+      {
+        "date": "2025-10-15",
+        "time": "09:00",
+        "type": "General Check-up",
+        "desc": "Routine health screening and vitals",
+        "doctorEmail": "vrilton0@discuz.net",
+        "doctorId": 1
+      },
+      {
+        "date": "2025-11-10",
+        "time": "10:30",
+        "type": "Follow-up",
+        "desc": "Review of blood test results",
+        "doctorEmail": "vrilton0@discuz.net",
+        "doctorId": 1
+      }
     ]
   },
   {
     "nhs": "3748194617",
     "name": "Maurita Charke",
     "doctor": "Dr. Ettie Beardsworth",
+    "doctorEmail": "ebeardsworth1@mac.com",
+    "doctorId": 2,
+    "patientEmail": "maurita.charke@mail.com",
     "items": [
-      {"date": "2025-10-22", "time": "11:15", "type": "Cardiology Consultation", "desc": "Discuss mild chest discomfort"}
+      {
+        "date": "2025-10-22",
+        "time": "11:15",
+        "type": "Cardiology Consultation",
+        "desc": "Discuss mild chest discomfort",
+        "doctorEmail": "ebeardsworth1@mac.com",
+        "doctorId": 2
+      }
     ]
   },
   {
     "nhs": "2842736109",
     "name": "Aubrey Dunston",
     "doctor": "Dr. Emera McQuillan",
+    "doctorEmail": "emcquillan2@about.me",
+    "doctorId": 3,
+    "patientEmail": "aubrey.dunston@mail.com",
     "items": [
-      {"date": "2025-10-25", "time": "13:00", "type": "Dermatology", "desc": "Check skin irritation and prescribe ointment"},
-      {"date": "2025-11-12", "time": "09:45", "type": "Follow-up", "desc": "Evaluate treatment progress"}
+      {
+        "date": "2025-10-25",
+        "time": "13:00",
+        "type": "Dermatology",
+        "desc": "Check skin irritation and prescribe ointment",
+        "doctorEmail": "emcquillan2@about.me",
+        "doctorId": 3
+      },
+      {
+        "date": "2025-11-12",
+        "time": "09:45",
+        "type": "Follow-up",
+        "desc": "Evaluate treatment progress",
+        "doctorEmail": "emcquillan2@about.me",
+        "doctorId": 3
+      }
     ]
   },
   {
     "nhs": "4315792829",
     "name": "Emanuele Duncanson",
     "doctor": "Dr. Monah Caghy",
+    "doctorEmail": "mcaghy5@surveymonkey.com",
+    "doctorId": 6,
+    "patientEmail": "emanuele.duncanson@mail.com",
     "items": [
-      {"date": "2025-10-28", "time": "08:45", "type": "Pediatric", "desc": "Child vaccination and general development check"}
+      {
+        "date": "2025-10-28",
+        "time": "08:45",
+        "type": "Pediatric",
+        "desc": "Child vaccination and general development check",
+        "doctorEmail": "mcaghy5@surveymonkey.com",
+        "doctorId": 6
+      }
     ]
   },
   {
     "nhs": "9930757538",
     "name": "Randall Kuna",
     "doctor": "Dr. Rad Philipard",
+    "doctorEmail": "rphilipard6@mayoclinic.com",
+    "doctorId": 7,
+    "patientEmail": "randall.kuna@mail.com",
     "items": [
-      {"date": "2025-10-23", "time": "10:00", "type": "ENT Examination", "desc": "Check for chronic sinus issues"},
-      {"date": "2025-11-05", "time": "15:00", "type": "Follow-up", "desc": "Assess medication effectiveness"}
+      {
+        "date": "2025-10-23",
+        "time": "10:00",
+        "type": "ENT Examination",
+        "desc": "Check for chronic sinus issues",
+        "doctorEmail": "rphilipard6@mayoclinic.com",
+        "doctorId": 7
+      },
+      {
+        "date": "2025-11-05",
+        "time": "15:00",
+        "type": "Follow-up",
+        "desc": "Assess medication effectiveness",
+        "doctorEmail": "rphilipard6@mayoclinic.com",
+        "doctorId": 7
+      }
     ]
   },
   {
     "nhs": "6412244999",
     "name": "Brnaba Claridge",
     "doctor": "Dr. Zoe Galloway",
+    "doctorEmail": "zgalloway7@ca.gov",
+    "doctorId": 8,
+    "patientEmail": "brnaba.claridge@mail.com",
     "items": [
-      {"date": "2025-10-30", "time": "09:15", "type": "Ophthalmology", "desc": "Vision test and new lens prescription"}
+      {
+        "date": "2025-10-30",
+        "time": "09:15",
+        "type": "Ophthalmology",
+        "desc": "Vision test and new lens prescription",
+        "doctorEmail": "zgalloway7@ca.gov",
+        "doctorId": 8
+      }
     ]
   },
   {
     "nhs": "1937225747",
     "name": "Dre Puffett",
     "doctor": "Dr. Rowland Blount",
+    "doctorEmail": "rblount8@pen.io",
+    "doctorId": 9,
+    "patientEmail": "dre.puffett@mail.com",
     "items": [
-      {"date": "2025-10-24", "time": "14:00", "type": "Neurology", "desc": "Headache and dizziness examination"}
+      {
+        "date": "2025-10-24",
+        "time": "14:00",
+        "type": "Neurology",
+        "desc": "Headache and dizziness examination",
+        "doctorEmail": "rblount8@pen.io",
+        "doctorId": 9
+      }
     ]
   },
   {
     "nhs": "0834678659",
     "name": "Vivi Pilch",
     "doctor": "Dr. Si Pawling",
+    "doctorEmail": "spawling9@princeton.edu",
+    "doctorId": 10,
+    "patientEmail": "vivi.pilch@mail.com",
     "items": [
-      {"date": "2025-10-29", "time": "16:30", "type": "Dental Cleaning", "desc": "Teeth cleaning and cavity inspection"}
+      {
+        "date": "2025-10-29",
+        "time": "16:30",
+        "type": "Dental Cleaning",
+        "desc": "Teeth cleaning and cavity inspection",
+        "doctorEmail": "spawling9@princeton.edu",
+        "doctorId": 10
+      }
     ]
   },
   {
     "nhs": "8440179340",
     "name": "Ferris Gowenlock",
     "doctor": "Dr. Merrily Harmson",
+    "doctorEmail": "mharmsona@i2i.jp",
+    "doctorId": 11,
+    "patientEmail": "ferris.gowenlock@mail.com",
     "items": [
-      {"date": "2025-11-03", "time": "09:00", "type": "Orthopedics", "desc": "Knee pain assessment"}
+      {
+        "date": "2025-11-03",
+        "time": "09:00",
+        "type": "Orthopedics",
+        "desc": "Knee pain assessment",
+        "doctorEmail": "mharmsona@i2i.jp",
+        "doctorId": 11
+      }
     ]
   },
   {
     "nhs": "9427293039",
     "name": "Gerry Dreier",
     "doctor": "Dr. Cordell Toor",
+    "doctorEmail": "ctoorb@psu.edu",
+    "doctorId": 12,
+    "patientEmail": "gerry.dreier@mail.com",
     "items": [
-      {"date": "2025-11-04", "time": "10:30", "type": "Vaccination", "desc": "Routine immunization booster"}
+      {
+        "date": "2025-11-04",
+        "time": "10:30",
+        "type": "Vaccination",
+        "desc": "Routine immunization booster",
+        "doctorEmail": "ctoorb@psu.edu",
+        "doctorId": 12
+      }
     ]
   }
 ]
